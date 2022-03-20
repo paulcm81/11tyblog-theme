@@ -1,6 +1,6 @@
 ---
 layout: layouts/blogs.njk
-title: My Blogs
+title: My Blog
 ---
 
-Here are some of my writings I have recently published.
+

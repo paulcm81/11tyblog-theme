@@ -1,5 +1,5 @@
 ---
-title: 'My first blog heading.'
+title: 'My first blog.'
 subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
 banner: '/assets/blogs_images/blog_one.jpg'
 ---

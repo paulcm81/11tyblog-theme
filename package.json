@@ -11,11 +11,12 @@
     "build": "npm-run-all build:sass build:eleventy"
   },
   "main": "index.js",
-  "repository": "https://github.com/ishan-me/11tyblog-theme.git",
-  "author": "Ishan Manandhar <ishan02016@gmail.com>",
+  "repository": {
+    "type": "git"
+  },
+  "author": "Paul Campbell  ",
   "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1",
     "autoprefixer": "^9.8.6",
     "cross-env": "^7.0.3",
     "cssnano": "^4.1.10",
@@ -26,5 +27,13 @@
   },
   "browserslist": [
     "last 2 versions"
-  ]
+  ],
+  "description": "A Static site generator blog template made with 11ty.",
+  "bugs": {
+    
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
 }

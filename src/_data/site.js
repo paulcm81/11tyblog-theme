@@ -1,6 +1,6 @@
 'use strict';
 
 module.exports = {
-  author: 'Ishan Manandhar',
+  author: 'Paul Campbell',
   copyrightYear: new Date().getFullYear(),
 };

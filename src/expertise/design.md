@@ -1,5 +1,5 @@
 ---
-area: 'Product Design'
-description: 'I run a design thinking product design sprint to deliver measure and iterate my design. I provide all end to end multi device well crafted mockups.'
+area: 'Some Work'
+description: 'Work Details Here'
 image: '../assets/expertise_icons/design.svg'
 ---
